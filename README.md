@@ -23,7 +23,7 @@ Step 2. Add the dependency
   
   ```kotlin
   dependencies {
-	        implementation 'com.github.techlibplanet:SampleAndroidHelpers:1.0.0'
+	        implementation 'com.github.techlibplanet:SampleAndroidHelpers:1.0.2'
 	}
   ```
   
@@ -46,7 +46,7 @@ Step 2. Add the dependency
     <dependency>
 	<groupId>com.github.techlibplanet</groupId>
 	<artifactId>SampleAndroidHelpers</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.2</version>
     </dependency>	
 ```
     
